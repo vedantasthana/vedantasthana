@@ -41,7 +41,6 @@ I am currently exploring the intersection of **Agentic workflows** and **Distrib
 * **Email:** va2360@nyu.edu
 * **Location:** New York, NY
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantasthana&show_icons=true&theme=radical)
 <!--
 **vedantasthana/vedantasthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
